@@ -1,2 +1,3 @@
 # react-graphql-store
-React GraphQL Clothing Store
+
+React GraphQL Next.JS Clothing Store
